@@ -1,1 +1,6 @@
-ewogICJ2ZXJzaW9uIjogNTgsCiAgImRlc2NyaXBjaW9uIjogInY3LjU4IiwKICAiYWN0dWFsaXphZG8iOiAiMjAyNi0xMC0wN1QwNDo1Mjo0OC4zNDRaIiwKICAibm90YSI6ICJMbyBhY3R1YWxpemEgc29sbyBlbCByZXBvc2l0b3JpbyBwcml2YWRvIG9ydGVnYS1iYWNrZW5kIGN1YW5kbyBwdWJsaWNhcyB1bmEgbnVldmEgdmVyc2lvbiBlbiBBcHBzIFNjcmlwdC4gTm8gZWRpdGFyIGEgbWFuby4iCn0K
+{
+  "version": 86,
+  "descripcion": "v86",
+  "actualizado": "2026-10-11T02:43:14Z",
+  "nota": "Etiqueta informativa. Los portales usan la URL /exec configurada en frontend/config.json."
+}
